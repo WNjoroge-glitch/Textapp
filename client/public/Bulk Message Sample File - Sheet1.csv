@@ -1,0 +1,5 @@
+phoneNumber,Message,Recurrence,DateSchedule
+7xx xxx xxx,Sample Message,Null,YYYY-MM-DDTHH:MM:SS
+7xx xxx xxx,Sample Message,3 days/1 week/1 month,YYYY-MM-DD
+7xx xxx xxx,Sample Message,Null,Null
+7xx xxx xxx,Sample Message,3 days,Null
